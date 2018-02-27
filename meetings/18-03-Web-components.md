@@ -37,6 +37,8 @@
 * [chaals nevile](https://github.com/chaals) - (WG co-chair)
 * [Rob Wormald](https://github.com/robwormald) - Google (Angular)
 * Adam Bradley - (join remotely) ionic and stenciljs
+* Zhou Shen - Baidu (MIP)
+* Qingqian Tao - Baidu (MIP)
 
 (Please make a PR to add your name here)
 
